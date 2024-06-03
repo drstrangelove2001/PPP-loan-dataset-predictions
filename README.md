@@ -1,3 +1,5 @@
+# Loan Status Predictions for PPP dataset using Apache Spark ML
+
 In the spring of 2020, the US government announced a loan program, called Paycheck Protection Program (PPP), to help stabilize the American economy in the face of job losses related to the COVID-19 pandemic. In this project, we used PPP loan dataset, which contains information about millions of loans to small businesses during the pandemic. To be specific, we built a binary classification ML model, using the available borrower, lender and loan information to predict LoanStatus:
 •	Positive (1): Paid in Full
 •	Negative (0): Charged Off or Exemption 4
