@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Paycheck_Protection_Program
 
 
 Data taken from: https://data.sba.gov/dataset/ppp-foia
+
+(Done to satisfy the requirements of CS5425 in NUS)
